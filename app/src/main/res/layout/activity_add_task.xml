@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#F5F6FA"
+    android:padding="24dp">
+
+    <TextView
+        android:id="@+id/txtScreenTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Create Project Task"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:textColor="#2F3640"
+        android:layout_marginBottom="24dp" />
+
+    <EditText
+        android:id="@+id/editNewTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Task Title"
+        android:background="@android:drawable/edit_text"
+        android:padding="14dp"
+        android:layout_marginBottom="16dp"/>
+
+    <EditText
+        android:id="@+id/editNewDesc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Detailed Description"
+        android:background="@android:drawable/edit_text"
+        android:padding="14dp"
+        android:layout_marginBottom="20dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Assign Workspace Responsibility To:"
+        android:textSize="14sp"
+        android:textColor="#718093"
+        android:layout_marginBottom="6dp"/>
+
+    <Spinner
+        android:id="@+id/spinnerNewAssignee"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="32dp"/>
+
+    <Button
+        android:id="@+id/btnSubmitTask"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Publish to Shared Board"
+        android:backgroundTint="#4CD137"
+        android:textColor="#FFFFFF"
+        android:padding="12dp"/>
+</LinearLayout>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "677634526484",
+    "project_id": "kanbanboard-cf01c",
+    "storage_bucket": "kanbanboard-cf01c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677634526484:android:22c59e7563ed4fab918601",
+        "android_client_info": {
+          "package_name": "com.example.kanban_board"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677634526484-j243ga7ag6u607o8hh2skcrdo6cn948b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kanban_board",
+            "certificate_hash": "405f4d481c5795445ab21905cd8b093c44129557"
+          }
+        },
+        {
+          "client_id": "677634526484-t6nmb1h79d050bdn0u61vk26bstmjd9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCox2a0A8VfMwNPSKCpgUCF7OuwJ8Srolc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677634526484-t6nmb1h79d050bdn0u61vk26bstmjd9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
