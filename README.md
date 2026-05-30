@@ -1,4 +1,3 @@
-<img width="720" height="1600" alt="WhatsApp Image 2026-05-30 at 7 52 16 AM" src="https://github.com/user-attachments/assets/6b5baa0f-bc59-415e-8ccc-90406777d7e2" />
 # 📋 Smart Kanban Board Mobile App
 
 A fully functional, cloud-connected Kanban board Android application designed to help users manage their daily tasks efficiently. Built using modern Android architecture and Firebase.
@@ -18,7 +17,13 @@ A fully functional, cloud-connected Kanban board Android application designed to
 * **Architecture:** ViewPager2, Fragments, RecyclerView, Custom Adapters
 
 ## 📱 Screenshots
-<img width="1080" height="2400" alt="WhatsApp Image 2026-05-30 at 7 50 22 AM" src="https://github.com/user-attachments/assets/c850343f-c4f1-4945-b7cd-119ceb650e42" />
+
+<p align="center">
+  <img width="1080" height="2400" alt="login_page" src="https://github.com/user-attachments/assets/e526ba57-2812-4864-9ca5-5aab06cbc546" width="24%"/>
+  <img width="720" height="1600" alt="todo_page" src="https://github.com/user-attachments/assets/f974b5bb-0409-4d65-a7df-1c3f407f0020" width="24%"/>
+  <img width="720" height="1600" alt="progress_page" src="https://github.com/user-attachments/assets/473a5df4-5f4a-49eb-83a2-1c690bb90dae" width="24%"/>
+  <img width="720" height="1600" alt="done_page" src="https://github.com/user-attachments/assets/9b8b5b3c-e013-487d-a012-795f1dc03b99" width="24%"/>
+</p>p
 
 *(Add screenshots of your app here later! Just drag and drop images into this file to show off your UI.)*
 
