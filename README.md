@@ -18,11 +18,13 @@ A fully functional, cloud-connected Kanban board Android application designed to
 
 ## 📱 Screenshots
 
+## 📱 Screenshots
+
 <p align="center">
-  <img width="1080" height="2400" alt="login_page" src="https://github.com/user-attachments/assets/e526ba57-2812-4864-9ca5-5aab06cbc546" width="24%"/>
-  <img width="720" height="1600" alt="todo_page" src="https://github.com/user-attachments/assets/f974b5bb-0409-4d65-a7df-1c3f407f0020" width="24%"/>
-  <img width="720" height="1600" alt="progress_page" src="https://github.com/user-attachments/assets/473a5df4-5f4a-49eb-83a2-1c690bb90dae" width="24%"/>
-  <img width="720" height="1600" alt="done_page" src="https://github.com/user-attachments/assets/9b8b5b3c-e013-487d-a012-795f1dc03b99" width="24%"/>
+  <img src="https://github.com/user-attachments/assets/e526ba57-2812-4864-9ca5-5aab06cbc546" alt="login_page" width="24%" />
+  <img src="https://github.com/user-attachments/assets/f974b5bb-0409-4d65-a7df-1c3f407f0020" alt="todo_page" width="24%" />
+  <img src="https://github.com/user-attachments/assets/473a5df4-5f4a-49eb-83a2-1c690bb90dae" alt="progress_page" width="24%" />
+  <img src="https://github.com/user-attachments/assets/9b8b5b3c-e013-487d-a012-795f1dc03b99" alt="done_page" width="24%" />
 </p>
 
 *(Add screenshots of your app here later! Just drag and drop images into this file to show off your UI.)*
