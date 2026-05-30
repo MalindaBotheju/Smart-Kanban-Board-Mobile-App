@@ -1,3 +1,4 @@
+<img width="720" height="1600" alt="WhatsApp Image 2026-05-30 at 7 52 16 AM" src="https://github.com/user-attachments/assets/6b5baa0f-bc59-415e-8ccc-90406777d7e2" />
 # 📋 Smart Kanban Board Mobile App
 
 A fully functional, cloud-connected Kanban board Android application designed to help users manage their daily tasks efficiently. Built using modern Android architecture and Firebase.
