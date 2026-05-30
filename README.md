@@ -17,6 +17,8 @@ A fully functional, cloud-connected Kanban board Android application designed to
 * **Architecture:** ViewPager2, Fragments, RecyclerView, Custom Adapters
 
 ## 📱 Screenshots
+<img width="1080" height="2400" alt="WhatsApp Image 2026-05-30 at 7 50 22 AM" src="https://github.com/user-attachments/assets/c850343f-c4f1-4945-b7cd-119ceb650e42" />
+
 *(Add screenshots of your app here later! Just drag and drop images into this file to show off your UI.)*
 
 ## 📥 Download & Install
