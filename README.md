@@ -30,8 +30,11 @@ A fully functional, cloud-connected Kanban board Android application designed to
   <img src="https://github.com/user-attachments/assets/bbc12f0e-16e8-4c45-bd2a-6cf64d906738" alt="update_task" width="24%" />
   <img src="https://github.com/user-attachments/assets/c4920b20-6a05-41e0-b669-9bd80f41400b" alt="delete_task" width="24%" />
 </p>
-
-*(Add screenshots of your app here later! Just drag and drop images into this file to show off your UI.)*
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/94480f24-fdd0-445f-92df-9a7ead6cb1ae" alt="move_progress" width="24%" />
+  <img src="https://github.com/user-attachments/assets/2a9ea1b0-435a-4d95-83b8-a3806f13c9d2" alt="move_complete" width="24%" />
+  <img src="https://github.com/user-attachments/assets/2ca4473d-5fb0-4176-b0e7-4499aeeefd24" alt="user" width="24%" />
+</p>
 
 ## 📥 Download & Install
 Want to try the app yourself? 
