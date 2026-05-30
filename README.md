@@ -7,8 +7,6 @@
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
 </p>
 
-[![Download APK](https://img.shields.io/badge/Download_APK-007EC6?style=for-the-badge&logo=android&logoColor=white)](https://github.com/MalindaBotheju/Smart-Kanban-Board-Mobile-App/releases/latest)
-
 A fully functional, cloud-connected Kanban board Android application designed to help users manage their daily tasks efficiently. Built using modern Android architecture and Firebase.
 
 ## ✨ Features
