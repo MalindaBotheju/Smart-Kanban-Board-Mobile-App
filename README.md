@@ -18,13 +18,17 @@ A fully functional, cloud-connected Kanban board Android application designed to
 
 ## 📱 Screenshots
 
-## 📱 Screenshots
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e526ba57-2812-4864-9ca5-5aab06cbc546" alt="login_page" width="24%" />
   <img src="https://github.com/user-attachments/assets/f974b5bb-0409-4d65-a7df-1c3f407f0020" alt="todo_page" width="24%" />
   <img src="https://github.com/user-attachments/assets/473a5df4-5f4a-49eb-83a2-1c690bb90dae" alt="progress_page" width="24%" />
   <img src="https://github.com/user-attachments/assets/9b8b5b3c-e013-487d-a012-795f1dc03b99" alt="done_page" width="24%" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d4931247-a02e-4203-be64-bcce34f60c54" alt="add_task" width="24%" />
+  <img src="https://github.com/user-attachments/assets/4dd9d71a-4c0e-430e-a7a3-56bde6481a29" alt="choose_track" width="24%" />
+  <img src="https://github.com/user-attachments/assets/bbc12f0e-16e8-4c45-bd2a-6cf64d906738" alt="update_task" width="24%" />
+  <img src="https://github.com/user-attachments/assets/c4920b20-6a05-41e0-b669-9bd80f41400b" alt="delete_task" width="24%" />
 </p>
 
 *(Add screenshots of your app here later! Just drag and drop images into this file to show off your UI.)*
